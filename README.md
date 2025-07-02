@@ -1,4 +1,4 @@
-# ViewerVerse: Disney+ Hotstar Data Analysis and Dashboard
+# VieweVerse: A Data-Driven Exploration of Disney+ Hotstar’s Streaming Trends
 
 ## 🔍 Overview
 This project explores content trends on Disney+ Hotstar using a dataset of 1,450+ titles. We performed data cleaning, EDA, and built a Tableau dashboard to visualize top genres, content types, countries, and timeline insights.
